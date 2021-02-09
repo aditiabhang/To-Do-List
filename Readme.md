@@ -1,6 +1,6 @@
 ### 💠 To-Do App 📋
 
-This is a simple yet elegant **To-Do list** developed using ***HTML, CSS and JavaScript.***
+This is an elegant **To-Do list** developed using ***HTML, CSS and JavaScript.***
 
 ### 💠 Features:
 - Add your tasks of the day and just hit enter!
